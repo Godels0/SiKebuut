@@ -5,6 +5,11 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    export default defineConfig(() => {
+  return {
+    base: '/SiKebuut/',
+    plugins: [react(), tailwindcss()],
+    ...
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
