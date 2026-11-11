@@ -1,0 +1,6 @@
+{
+  "name": "SiKebut Cargo Express",
+  "description": "Sistem Informasi Kargo dan Logistik Terpadu untuk Pemesanan, Pelacakan Resi Real-Time, Estimasi Biaya, Manajemen Armada & Kurir, serta Dashboard Operasional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
